@@ -14,3 +14,5 @@ Final Results after 10 games:
 X wins: 0
 O wins: 0
 Draws: 10
+
+https://i.imgur.com/6JgUCOF.png
