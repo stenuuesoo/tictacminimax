@@ -8,6 +8,7 @@ X | X | O
 O | O | X 
 ---------
 X | O | X 
+-
 
 Final Results after 10 games:
 X wins: 0
